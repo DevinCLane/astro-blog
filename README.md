@@ -1,4 +1,8 @@
-# Astro Starter Kit: Minimal
+# Astro Blog
+
+Wherein I create an Astro blog using a minimal starter template.
+
+Want to make your own too? Astro instructions follow:
 
 ```sh
 npm create astro@latest -- --template minimal
